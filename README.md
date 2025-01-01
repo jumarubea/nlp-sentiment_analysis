@@ -110,10 +110,6 @@ pip install -r requirements.txt
 Contributions are welcome! If you’d like to improve this tutorial or fix issues, feel free to fork the repository and submit a pull request.
 
 
-## License
-
-This project is licensed under the MIT License.
-
 
 ## Acknowledgments
 
